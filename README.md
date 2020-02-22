@@ -1,1 +1,4 @@
-# divisible_sum_pairs_lab
+# Divisible Sum Pairs Lab
+
+https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
